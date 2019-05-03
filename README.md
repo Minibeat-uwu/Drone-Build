@@ -12,3 +12,5 @@ This is gonna be my first ever build on any actual stuff, so the progress is goi
 
 Finally got started on the build. I had some experience with the solder, but it was kinda difficult to get the wire into place when I got nothing to hold it together.
 Other than that, I got all 4 ESCs connected to the PDB, but still haven't fully connected the motors to the ESC. OOF!
+
+![Photo 2019-05-03, 15 47 29](https://user-images.githubusercontent.com/46799843/57164362-dd465300-6dc1-11e9-82f0-cf62652f6403.jpg)
