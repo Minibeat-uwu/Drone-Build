@@ -1,1 +1,17 @@
 
+## Progress:
+
+### 2019-05-03:
+
+Finally got started on the build. I had some experience with the solder, but it was kinda difficult to get the wire into place when I got nothing to hold it together. Other than that, I got all 4 ESCs connected to the PDB, but still haven't fully connected the motors to the ESC. OOF!
+
+Photo 2019-05-03, 15 47 29
+
+### 2019-05-05
+Finished soldering all the ESC and motors together and connected all the pins to the control panel. However, I made a huge mistake of not properly checking what to do (lack of research), I'm missing couple parts again, and also messed up couple area that I need to fix immidiately. List of Fixes that is needed:
+
+I need to desolder the power plug on the control panel so I can connect a wire to extend that plug.
+Rewire some of the locations to make it look a bit nicer
+Buy more parts, because I was an idiot last year and didn't properly researched.
+Need to get a decent helping hand, cause it's kinda hard to solder some of the pins & wires
+
