@@ -1,17 +1,26 @@
 
 ## Progress:
 
-### 2019-05-03:
+2019-05-03:
 
 Finally got started on the build. I had some experience with the solder, but it was kinda difficult to get the wire into place when I got nothing to hold it together. Other than that, I got all 4 ESCs connected to the PDB, but still haven't fully connected the motors to the ESC. OOF!
 
 Photo 2019-05-03, 15 47 29
 
-### 2019-05-05
+2019-05-05
 Finished soldering all the ESC and motors together and connected all the pins to the control panel. However, I made a huge mistake of not properly checking what to do (lack of research), I'm missing couple parts again, and also messed up couple area that I need to fix immidiately. List of Fixes that is needed:
 
-I need to desolder the power plug on the control panel so I can connect a wire to extend that plug.
-Rewire some of the locations to make it look a bit nicer
-Buy more parts, because I was an idiot last year and didn't properly researched.
-Need to get a decent helping hand, cause it's kinda hard to solder some of the pins & wires
+1) I need to desolder the power plug on the control panel so I can connect a wire to extend that plug.
+2) Rewire some of the locations to make it look a bit nicer
+3) Buy more parts, because I was an idiot last year and didn't properly researched.
+4) Need to get a decent helping hand, cause it's kinda hard to solder some of the pins & wires
 
+2019-05-13
+All the wires are connected, but somehow the flight controller is not getting any power. I tried to flash the controller to see if that was the issue, but doesn't look like it was.
+
+2019-05-15
+Found the issue, the voltage regulator of the flight controller was fried. This may be due to the wrong voltage input from the pcb.
+
+2019-05-16
+Decided to use arduino nano and MPU-6050(gyro) and create my own flight controller from there. I'm still going to use the same receiver from the package that I bought.
+Now, I just need to wait for all the parts to arrive... hopefully get the pcb from amazon quick so I can progress from this proj... what am i doing...
