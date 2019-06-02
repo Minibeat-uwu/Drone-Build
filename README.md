@@ -1,4 +1,4 @@
-# Drone-Build
+# Quadcopter-Build
 I had to start somewhere and build something during the summer, so I decided to build a drone. 
 
 ## Getting started:
