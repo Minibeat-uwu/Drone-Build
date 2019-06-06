@@ -24,3 +24,18 @@ Found the issue, the voltage regulator of the flight controller was fried. This 
 2019-05-25
 Decided to use arduino nano and MPU-6050(gyro) and create my own flight controller from there. I'm still going to use the same receiver from the package that I bought.
 Now, I just need to wait for all the parts to arrive... hopefully get the pcb from amazon quick so I can progress from this proj... what am i doing...
+
+2019-06-02
+Got the gyro and the pcbs to attach all the things together. I did finished the circuit drawing for it through this website, so lets see how it goes.
+http://www.electronoobs.com/eng_robotica_tut5.php
+
+2019-06-03
+Planning out the connection and the wires
+
+2019-06-04
+Due to the lack of wires I have, I'm trying to improvise it by salvaging the previous dead flight controller plugs. At least, I got all the connection plans made.
+
+2019-06-05
+Started soldering the connection between the gyro and the arduino.
+2hr later...
+connections are made, but I need to stop. My stomach doesn't feel too gooddddd.....
