@@ -39,3 +39,17 @@ Due to the lack of wires I have, I'm trying to improvise it by salvaging the pre
 Started soldering the connection between the gyro and the arduino.
 2hr later...
 connections are made, but I need to stop. My stomach doesn't feel too gooddddd.....
+
+2019-06-06
+I finished all the soldering... arduino nano to gyro and bunch of wires so that I can use it for the connection between arduino to receiver.
+
+2019-06-08
+Just spent my whole time adding shrink tube to all the connection because I don't have any cover for the connection... It's time consuming and tedious, but this is what I get.
+
+2019-06-10
+I just followed the instruction that was on youtube. I did finish downloading the multiwii and successfully uploaded,l but somehow it's not responding properly.
+I checked if the connection was improper, but I don't see any issues.
+https://www.youtube.com/watch?v=S8TSkGQ2EWY
+
+2019-06-11
+The pins to arduino wasn't properly made, so the power wasn't really going into the arduino. Thus, I added some solder to reconnect the circuit.
