@@ -53,3 +53,18 @@ https://www.youtube.com/watch?v=S8TSkGQ2EWY
 
 2019-06-11
 The pins to arduino wasn't properly made, so the power wasn't really going into the arduino. Thus, I added some solder to reconnect the circuit.
+
+2019-06-12
+multiwii IS uploaded to the arduino nano, but somehow when everything is powered on, the transmitter is not being relaied to the receiver.
+About an hour or so, due to ppm activation, it denied the information from the pwm connection. After a quick re-upload, it was able to read the input from the receiver.
+
+2019-06-13
+Further issues were found from the software side:
+1) Arduino can't read the roll and AUX 2 input
+2) GPS direction is constantly turning at CCW
+3) It's able to read when it's connected to the usb, but when it's connected to the battery, it doesn't read anything. (Basically, multiwii becomes like a dead boi)
+4) Out of all the activation: ARM, ANGLE, HORIZON, Angle is the only that doesn't want to activate
+5) When the drone is powered by the battery, it doesn't want to be ARMed
+
+I can definitely see some response when I connect it to the usb, because it's sending a signal to send power to the motor. But when I plug in the battery while I have the usb connected, the response just dies.
+I still have to research more on the multiwii, but it's almost there boissssss!!! AHHHH I WANT TO JUST FINISH THIS BUGGER.
