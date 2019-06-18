@@ -68,3 +68,8 @@ Further issues were found from the software side:
 
 I can definitely see some response when I connect it to the usb, because it's sending a signal to send power to the motor. But when I plug in the battery while I have the usb connected, the response just dies.
 I still have to research more on the multiwii, but it's almost there boissssss!!! AHHHH I WANT TO JUST FINISH THIS BUGGER.
+
+2019-06-18
+The receiver side does send out the roll output (Ch 1), but the arduino isn't receiving that info. Witch means, the D4 pin of the arduino nano isn't properly working.
+Further more, it is still refusing to arm when I connect it directly to the battery. At first, I thought it was due to the lack of flashing to the ESC, but looks like it wasn't needed.
+I still have to research why it's still not arming when it's dead right now. damb it.
